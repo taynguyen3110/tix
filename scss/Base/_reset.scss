@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: $font-family-1;
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: $font-family-0;
+    font-size: $font-size-0;
+}
+
+.clear {
+    clear: both;
+}
